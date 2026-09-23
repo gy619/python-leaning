@@ -1,0 +1,5 @@
+print("steam666,妍")
+print("1+1=2",1+1)
+print(1-1,1+1)
+print(1)
+print("*\n**\n***")
